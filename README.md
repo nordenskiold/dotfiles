@@ -104,7 +104,7 @@ These mappings provide Windows-like keyboard shortcuts on macOS:
 
 | Shortcut | Action | Scope |
 |----------|--------|-------|
-| `Mouse3` | Toggle Mission Control | Global |
+| `Ctrl+Mouse3` | Toggle Mission Control | Global |
 | `Mouse6` | Toggle Mission Control | Global |
 | `Ctrl+Mouse4` | Switch to left virtual desktop | Global |
 | `Ctrl+Mouse5` | Switch to right virtual desktop | Global |
